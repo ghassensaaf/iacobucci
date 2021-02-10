@@ -613,6 +613,7 @@ section {
 # Services
 --------------------------------------------------------------*/
 .services .icon-box {
+  box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.6);
   text-align: center;
   padding: 70px 20px 80px 20px;
   transition: all ease-in-out 0.3s;
