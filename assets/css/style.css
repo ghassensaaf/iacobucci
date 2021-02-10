@@ -531,6 +531,7 @@ section {
 }
 
 .section-title h2 {
+  color: #ff6e40;
   font-size: 32px;
   font-weight: bold;
   text-transform: uppercase;
@@ -655,7 +656,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #ff6e40;
+  color: #ffc13b;
   transition: ease-in-out 0.3s;
 }
 
