@@ -1313,12 +1313,12 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .info-wrap {
-  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.6);
   padding: 30px;
 }
 
 .contact .info {
-  background: #fff;
+  background: #1e3d59;
 }
 
 .contact .info i {
@@ -1340,14 +1340,14 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #111;
+  color: #ffc13b;
 }
 
 .contact .info p {
   padding: 0 0 0 60px;
   margin-bottom: 0;
   font-size: 14px;
-  color: #444444;
+  color: #f5f0e1;
 }
 
 .contact .info:hover i {
@@ -1357,9 +1357,9 @@ section {
 
 .contact .php-email-form {
   width: 100%;
-  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.6);
   padding: 30px;
-  background: #fff;
+  background: #1e3d59;
 }
 
 .contact .php-email-form .form-group {
